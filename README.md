@@ -39,6 +39,7 @@ Make the files executable with chmod +x
 When run and passed the first 3 octets of an IP address, the script sweeps the network using pings and returns the IPs in use on the given network
 
 ### removesnaps.sh
+Removes all old snaps from system to clear memory on Linux OS 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
