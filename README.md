@@ -17,22 +17,8 @@ Various Bash scripts
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Various Bash scripts for 
+Various Bash scripts for performing tasks
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Python Libraries used
-
-To use these scripts the following libraries are required.
-
-* [json](https://github.com/python/cpython/tree/3.10/Lib/json/__init__.py)
-* [socket](https://github.com/python/cpython/tree/3.10/Lib/socket.py)
-* [re](https://github.com/python/cpython/tree/3.10/Lib/re.py)
-* [sys](https://docs.python.org/3/library/sys.html)
-* [pexpect](https://github.com/pexpect/pexpect)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -40,8 +26,7 @@ To use these scripts the following libraries are required.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Check that you have python 3.7 or newer.
-
+Make the files executable with chmod +x 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -50,9 +35,10 @@ Check that you have python 3.7 or newer.
 <!-- SCRIPT BRIEFS -->
 ## Script briefs
 
-### JSONtoDICT.py
-Reads in json file, converts to python dictionary, accesses data and changes value, wites out new values to new json file
+### ipSweep.sh
+When run and passed the first 3 octets of an IP address, the script sweeps the network using pings and returns the IPs in use on the given network
 
+### removesnaps.sh
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
