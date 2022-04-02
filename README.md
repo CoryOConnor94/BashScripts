@@ -1,9 +1,6 @@
 # BashScripts
 Various Bash scripts
 
-# PythonNetworking
-Various Python scripts for networking
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -20,8 +17,7 @@ Various Python scripts for networking
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Various Python scripts for performing networking tasks. I have an interest in both networking and python so this was just to learn and have fun.
-Still have a lot to learn so any corrections or improvements on the code would be greatly appreciated.
+Various Bash scripts for 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -68,7 +64,7 @@ Email - CoryOConnor1994@gmail.com
 
 Linkedin - (https://linkedin.com/in/cory-o-connor-7b16911a)
 
-Project Link - (https://github.com/CoryOConnor94/PythonNetworking)
+Project Link - (https://github.com/CoryOConnor94/BashScripts)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
